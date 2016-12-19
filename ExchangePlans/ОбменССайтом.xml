@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.3">
+	<ExchangePlan uuid="7a9e3f35-aa92-4897-919f-50ac7b6e9151">
+		<InternalInfo>
+			<xr:ThisNode>48268304-7ff6-4de3-97a1-70dd2772a4c3</xr:ThisNode>
+			<xr:GeneratedType name="ExchangePlanObject.ОбменССайтом" category="Object">
+				<xr:TypeId>93eb9da5-fe2e-4413-927b-3037d8f22ca4</xr:TypeId>
+				<xr:ValueId>6fff0bcc-18fa-430a-9c5f-491b14d5dea7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanRef.ОбменССайтом" category="Ref">
+				<xr:TypeId>1107a813-b111-46f3-b36b-10e852cc7176</xr:TypeId>
+				<xr:ValueId>dba4a97a-72d4-42d9-bd42-13337ebba85a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanSelection.ОбменССайтом" category="Selection">
+				<xr:TypeId>23e7f078-0be8-4c9d-938d-dd56b5e8bab1</xr:TypeId>
+				<xr:ValueId>4c39da98-5d45-4383-9110-bf3dd41f7f60</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanList.ОбменССайтом" category="List">
+				<xr:TypeId>eb92af57-be4a-48c0-b3c9-f15a5f74e83a</xr:TypeId>
+				<xr:ValueId>382eedf9-e14f-4001-99b6-95088cd2477e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanManager.ОбменССайтом" category="Manager">
+				<xr:TypeId>84164a52-a40d-4b96-866c-f3f20cf09121</xr:TypeId>
+				<xr:ValueId>c947a204-51d7-46ec-8bfd-85964bbe7717</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ОбменССайтом</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</ExchangePlan>
+</MetaDataObject>

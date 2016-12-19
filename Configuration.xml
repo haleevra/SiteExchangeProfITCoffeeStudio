@@ -52,7 +52,12 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<ExchangePlan>ОбменССайтом</ExchangePlan>
+			<XDTOPackage>ПрофИТ_ОбменССайтомXDTO</XDTOPackage>
 			<HTTPService>ПрофИТ_HTTPОбменССайтом</HTTPService>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>НоменклатураПрисоединенныеФайлы</Catalog>
+			<InformationRegister>ШтрихкодыНоменклатуры</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

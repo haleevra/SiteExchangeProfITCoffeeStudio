@@ -14,6 +14,36 @@
 			<ReuseSessions>DontUse</ReuseSessions>
 			<SessionMaxAge>20</SessionMaxAge>
 		</Properties>
-		<ChildObjects/>
+		<ChildObjects>
+			<URLTemplate uuid="596580e8-7784-44e3-ab9e-7731a57e0e14">
+				<Properties>
+					<Name>GetItems</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Get items</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Template>/*</Template>
+				</Properties>
+				<ChildObjects>
+					<Method uuid="666e8f55-4e2a-4fdb-b75e-93c995f75d1e">
+						<Properties>
+							<Name>GET</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>GET</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<HTTPMethod>GET</HTTPMethod>
+							<Handler>GetItemsGET</Handler>
+						</Properties>
+					</Method>
+				</ChildObjects>
+			</URLTemplate>
+		</ChildObjects>
 	</HTTPService>
 </MetaDataObject>
