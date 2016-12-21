@@ -25,7 +25,7 @@
 						</v8:item>
 					</Synonym>
 					<Comment/>
-					<Template>/*</Template>
+					<Template>/GetItems/*</Template>
 				</Properties>
 				<ChildObjects>
 					<Method uuid="666e8f55-4e2a-4fdb-b75e-93c995f75d1e">
@@ -40,6 +40,35 @@
 							<Comment/>
 							<HTTPMethod>GET</HTTPMethod>
 							<Handler>GetItemsGET</Handler>
+						</Properties>
+					</Method>
+				</ChildObjects>
+			</URLTemplate>
+			<URLTemplate uuid="f7c8844e-eeab-404e-9dbe-18ecc011ad89">
+				<Properties>
+					<Name>Test</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Test</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Template>/Test/*</Template>
+				</Properties>
+				<ChildObjects>
+					<Method uuid="bf30edd5-b705-4b9d-9add-5c6733808607">
+						<Properties>
+							<Name>Test</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Test</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<HTTPMethod>GET</HTTPMethod>
+							<Handler>TestTest</Handler>
 						</Properties>
 					</Method>
 				</ChildObjects>
